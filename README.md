@@ -66,7 +66,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Faheem-5eeM/Faheem-5eeM/output/snake.svg" alt="Snake animation" />
+<h3 align="center">PROFILE VISITED</h3>
 
 ###
 
@@ -75,4 +75,3 @@
 </div>
 
 ###
-
