@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hello, I'm Mohammed Faheem!<br><br>🎓 Studying Information Science and Engineering.<br><br>💻 Currently immersed in the world of front-end development.<br><br>🚀 Skills: HTML, CSS, JavaScript, C++, C.<br><br>🌟 Passionate about creating intuitive and visually appealing web experiences.<br><br>📚 Constantly learning and exploring new technologies to enhance my skills.<br><br>🔗 Let's connect and collaborate on exciting projects!</h2>
+<h2 align="center">👋 Hello, I'm Mohammed Faheem!<br><br>🎓 Studying Information Science and Engineering.<br><br>💻 Currently immersed in the world of front-end development.<br><br>🚀 Skills: HTML, CSS, JavaScript, C++, C.<br><br>🌟 Passionate about creating intuitive and visually appealing web experiences.<br><br>📚 Constantly learning and exploring new technologies to enhance my skills.<br><br>🔗 Let's connect and collaborate on exciting projects!</h2>
 
 ###
 
