@@ -1,6 +1,11 @@
 <h2 align="center">👋 Hello, I'm Mohammed Faheem!<br><br>🎓 Studying Information Science and Engineering.<br><br>💻 Currently immersed in the world of front-end development.<br><br>🚀 Skills: HTML, CSS, JavaScript, C++, C.<br><br>🌟 Passionate about creating intuitive and visually appealing web experiences.<br><br>📚 Constantly learning and exploring new technologies to enhance my skills.<br><br>🔗 Let's connect and collaborate on exciting projects!</h2>
 
 ###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faheem-5eem&label=Profile%20views&color=0e75b6&style=flat" alt="faheem-5eem" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faheem-5eem" alt="faheem-5eem" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <div align="center">
   <a href="https://www.instagram.com/f4h.eem._?igsh=MXRnczk0bnNwNnJi" target="_blank">
