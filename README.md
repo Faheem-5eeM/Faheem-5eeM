@@ -7,6 +7,27 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faheem-5eem" alt="faheem-5eem" /></a> </p>
 
+<br></br>
+
+
+# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+
+Sl No.| Project Name | Deployed Link | Repository | Tech Stack & Tools |
+:-----|:-------------|:-------------:|:----------:|:-------------------|
+1.| Restaurant Website - The Pink Salt | [view](https://faheem-5eem.github.io/RESTAURANT/) | [view](https://github.com/Faheem-5eeM/RESTAURANT)  | `HTML` `JavaScript` `Tailwind CSS` |
+2.| Netflix_LoginPage | [view](https://faheem-5eem.github.io/Netflix_LoginPage/)  | [view](https://github.com/Faheem-5eeM/Netflix_LoginPage) | `HTML` `JavaScript` `Tailwind CSS` |
+3.| SIMPLE_CALCULATOR | [view](https://faheem-5eem.github.io/SIMPLE_CALCULATOR/) | [view](https://github.com/Faheem-5eeM/SIMPLE_CALCULATOR) | `HTML` `JavaScript` `Tailwind CSS`| 
+4.| Gender-Prediction-App | [view](https://faheem-5eem.github.io/Gender-Prediction-App/) | [view](https://github.com/Faheem-5eeM/Gender-Prediction-App) | `HTML` `CSS` `JavaScript`| 
+5.| YOUTUBE_CLONE | [view](https://youtube-clone-peach-one.vercel.app/) | [view](https://github.com/Faheem-5eeM/YOUTUBE_CLONE) | `HTML` `CSS` `JavaScript` | 
+6.| RockPaperScissors | [view](https://rock-paper-scissors-rose-two.vercel.app/) | [view](https://github.com/Faheem-5eeM/RockPaperScissors) | `HTML` `CSS` `JavaScript` |
+7.| SPOTIFY_CLONE | [view](https://spotify-clone-puce-six-66.vercel.app/) | [view](https://github.com/Faheem-5eeM/SPOTIFY_CLONE) | `HTML` `CSS` `JavaScript` |
+8.| SAMPLE-CODES--C-CPP | - | [view](https://github.com/Faheem-5eeM/SAMPLE-CODES--C-CPP) | `C++` `C` |
+9.| DSA-PROGRAMS | - | [view](https://github.com/Faheem-5eeM/DSA-PROGRAMS) | `C++` `C` | 
+10.| JAVA-PROGRAMS | - | [view](https://github.com/Faheem-5eeM/JAVA-PROGRAMS) | JAVA |
+
+<br></br>
+
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <div align="center">
@@ -72,3 +93,4 @@
 </div>
 
 ###
+
