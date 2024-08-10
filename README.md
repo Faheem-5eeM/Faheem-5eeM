@@ -23,7 +23,7 @@ Sl No.| Project Name | Deployed Link | Repository | Tech Stack & Tools |
 7.| SPOTIFY_CLONE | [view](https://spotify-clone-puce-six-66.vercel.app/) | [view](https://github.com/Faheem-5eeM/SPOTIFY_CLONE) | `HTML` `CSS` `JavaScript` |
 8.| SAMPLE-CODES--C-CPP | - | [view](https://github.com/Faheem-5eeM/SAMPLE-CODES--C-CPP) | `C++` `C` |
 9.| DSA-PROGRAMS | - | [view](https://github.com/Faheem-5eeM/DSA-PROGRAMS) | `C++` `C` | 
-10.| JAVA-PROGRAMS | - | [view](https://github.com/Faheem-5eeM/JAVA-PROGRAMS) | JAVA |
+10.| JAVA-PROGRAMS | - | [view](https://github.com/Faheem-5eeM/JAVA-PROGRAMS) | `JAVA` |
 
 <br></br>
 
