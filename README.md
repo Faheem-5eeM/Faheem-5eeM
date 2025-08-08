@@ -14,21 +14,21 @@
 
 Sl No.| Project Name | Deployed Link | Repository | Tech Stack & Tools |
 :-----|:-------------|:-------------:|:----------:|:-------------------|
-1. | FlickPick - Movie App | [Live Demo](https://github.com/Faheem-5eeM/FlickPick) | [GitHub Repo](https://github.com/Faheem-5eeM/FlickPick) | `React` `JavaScript` `CSS` |
-1.| Nurse-Patient Allocation | [view]([https://nurse-allottment.onrender.com/]) | [view]([https://github.com/Faheem-5eeM/nursealottment]) | `JavaScript` `EJS` `CSS` `HTML` |
-1.| Crop Weed Detection | [view](-) | [view]([https://github.com/Faheem-5eeM/Crop-Weed-Detection]) | `Python` `OpenCV` `YOLO` |
-1.| Restaurant Website - The Pink Salt | [view](https://faheem-5eem.github.io/RESTAURANT/) | [view](https://github.com/Faheem-5eeM/RESTAURANT)  | `HTML` `JavaScript` `Tailwind CSS` |
-2.| Netflix_LoginPage | [view](https://faheem-5eem.github.io/Netflix_LoginPage/)  | [view](https://github.com/Faheem-5eeM/Netflix_LoginPage) | `HTML` `JavaScript` `Tailwind CSS` |
-3.| SIMPLE_CALCULATOR | [view](https://faheem-5eem.github.io/SIMPLE_CALCULATOR/) | [view](https://github.com/Faheem-5eeM/SIMPLE_CALCULATOR) | `HTML` `JavaScript` `Tailwind CSS`| 
-4.| Gender-Prediction-App | [view](https://faheem-5eem.github.io/Gender-Prediction-App/) | [view](https://github.com/Faheem-5eeM/Gender-Prediction-App) | `HTML` `CSS` `JavaScript`| 
-5.| YOUTUBE_CLONE | [view](https://youtube-clone-peach-one.vercel.app/) | [view](https://github.com/Faheem-5eeM/YOUTUBE_CLONE) | `HTML` `CSS` `JavaScript` | 
-6.| RockPaperScissors | [view](https://rock-paper-scissors-rose-two.vercel.app/) | [view](https://github.com/Faheem-5eeM/RockPaperScissors) | `HTML` `CSS` `JavaScript` |
-7.| SPOTIFY_CLONE | [view](https://spotify-clone-puce-six-66.vercel.app/) | [view](https://github.com/Faheem-5eeM/SPOTIFY_CLONE) | `HTML` `CSS` `JavaScript` |
-8.| SAMPLE-CODES--C-CPP | - | [view](https://github.com/Faheem-5eeM/SAMPLE-CODES--C-CPP) | `C++` `C` |
-9.| DSA-PROGRAMS | - | [view](https://github.com/Faheem-5eeM/DSA-PROGRAMS) | `C++` `C` | 
-10.| JAVA-PROGRAMS | - | [view](https://github.com/Faheem-5eeM/JAVA-PROGRAMS) | `JAVA` |
+1. | FlickPick - Movie App | [Live Demo](https://your-vercel-link.vercel.app/) | [GitHub Repo](https://github.com/Faheem-5eeM/FlickPick) | `React` `JavaScript` `CSS` |
+2. | Nurse-Patient Allocation | [Live Demo](https://nurse-allottment.onrender.com/) | [GitHub Repo](https://github.com/Faheem-5eeM/nursealottment) | `JavaScript` `EJS` `CSS` `HTML` |
+3. | Crop Weed Detection | - | [GitHub Repo](https://github.com/Faheem-5eeM/Crop-Weed-Detection) | `Python` `OpenCV` `YOLO` |
+4. | Restaurant Website - The Pink Salt | [Live Demo](https://faheem-5eem.github.io/RESTAURANT/) | [GitHub Repo](https://github.com/Faheem-5eeM/RESTAURANT) | `HTML` `JavaScript` `Tailwind CSS` |
+5. | Netflix_LoginPage | [Live Demo](https://faheem-5eem.github.io/Netflix_LoginPage/) | [GitHub Repo](https://github.com/Faheem-5eeM/Netflix_LoginPage) | `HTML` `JavaScript` `Tailwind CSS` |
+6. | SIMPLE_CALCULATOR | [Live Demo](https://faheem-5eem.github.io/SIMPLE_CALCULATOR/) | [GitHub Repo](https://github.com/Faheem-5eeM/SIMPLE_CALCULATOR) | `HTML` `JavaScript` `Tailwind CSS` |
+7. | Gender-Prediction-App | [Live Demo](https://faheem-5eem.github.io/Gender-Prediction-App/) | [GitHub Repo](https://github.com/Faheem-5eeM/Gender-Prediction-App) | `HTML` `CSS` `JavaScript` |
+8. | YOUTUBE_CLONE | [Live Demo](https://youtube-clone-peach-one.vercel.app/) | [GitHub Repo](https://github.com/Faheem-5eeM/YOUTUBE_CLONE) | `HTML` `CSS` `JavaScript` |
+9. | RockPaperScissors | [Live Demo](https://rock-paper-scissors-rose-two.vercel.app/) | [GitHub Repo](https://github.com/Faheem-5eeM/RockPaperScissors) | `HTML` `CSS` `JavaScript` |
+10. | SPOTIFY_CLONE | [Live Demo](https://spotify-clone-puce-six-66.vercel.app/) | [GitHub Repo](https://github.com/Faheem-5eeM/SPOTIFY_CLONE) | `HTML` `CSS` `JavaScript` |
+11. | SAMPLE-CODES--C-CPP | - | [GitHub Repo](https://github.com/Faheem-5eeM/SAMPLE-CODES--C-CPP) | `C++` `C` |
+12. | DSA-PROGRAMS | - | [GitHub Repo](https://github.com/Faheem-5eeM/DSA-PROGRAMS) | `C++` `C` |
+13. | JAVA-PROGRAMS | - | [GitHub Repo](https://github.com/Faheem-5eeM/JAVA-PROGRAMS) | `JAVA` |
 
-<br></br>
+<br>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
