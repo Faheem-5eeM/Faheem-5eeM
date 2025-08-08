@@ -14,6 +14,9 @@
 
 Sl No.| Project Name | Deployed Link | Repository | Tech Stack & Tools |
 :-----|:-------------|:-------------:|:----------:|:-------------------|
+1. | FlickPick - Movie App | [Live Demo](https://github.com/Faheem-5eeM/FlickPick) | [GitHub Repo](https://github.com/Faheem-5eeM/FlickPick) | `React` `JavaScript` `CSS` |
+1.| Nurse-Patient Allocation | [view]([https://nurse-allottment.onrender.com/]) | [view]([https://github.com/Faheem-5eeM/nursealottment]) | `JavaScript` `EJS` `CSS` `HTML` |
+1.| Crop Weed Detection | [view](-) | [view]([https://github.com/Faheem-5eeM/Crop-Weed-Detection]) | `Python` `OpenCV` `YOLO` |
 1.| Restaurant Website - The Pink Salt | [view](https://faheem-5eem.github.io/RESTAURANT/) | [view](https://github.com/Faheem-5eeM/RESTAURANT)  | `HTML` `JavaScript` `Tailwind CSS` |
 2.| Netflix_LoginPage | [view](https://faheem-5eem.github.io/Netflix_LoginPage/)  | [view](https://github.com/Faheem-5eeM/Netflix_LoginPage) | `HTML` `JavaScript` `Tailwind CSS` |
 3.| SIMPLE_CALCULATOR | [view](https://faheem-5eem.github.io/SIMPLE_CALCULATOR/) | [view](https://github.com/Faheem-5eeM/SIMPLE_CALCULATOR) | `HTML` `JavaScript` `Tailwind CSS`| 
