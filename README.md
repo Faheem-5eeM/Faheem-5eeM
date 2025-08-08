@@ -118,6 +118,18 @@ Sl No.| Project Name | Deployed Link | Repository | Tech Stack & Tools |
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhUXYtZGaSVpgszvcdic5jZKt2rhQZqPGEng&s" height="30" alt="ubuntu logo" />
+  <img width="12" />
+  <img src="https://img.favpng.com/20/1/2/microsoft-logo-icon-png-favpng-685u6bvjmVTSVQvgf1yFZk2yh.jpg" height="30" alt="microsoft logo" />
+  <img width="12" />
+
+
+
 </div>
 
 ###
