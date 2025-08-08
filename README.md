@@ -71,7 +71,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhUXYtZGaSVpgszvcdic5jZKt2rhQZqPGEng&s" height="30" alt="ubuntu logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" height="30" alt="linux logo" />
   <img width="12" />
   <img src="https://img.favpng.com/20/1/2/microsoft-logo-icon-png-favpng-685u6bvjmVTSVQvgf1yFZk2yh.jpg" height="30" alt="microsoft logo" />
   <img width="12" />
