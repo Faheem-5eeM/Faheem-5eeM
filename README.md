@@ -86,7 +86,7 @@
 
 Sl No.| Project Name | Deployed Link | Repository | Tech Stack & Tools |
 :-----|:-------------|:-------------:|:----------:|:-------------------|
-1. | FlickPick - Movie App | [Live Demo](https://your-vercel-link.vercel.app/) | [GitHub Repo](https://github.com/Faheem-5eeM/FlickPick) | `React` `JavaScript` `CSS` |
+1. | FlickPick - Movie App | [Live Demo](https://flick-pick-delta.vercel.app/) | [GitHub Repo](https://github.com/Faheem-5eeM/FlickPick) | `React` `JavaScript` `CSS` |
 2. | Nurse-Patient Allocation | [Live Demo](https://nurse-allottment.onrender.com/) | [GitHub Repo](https://github.com/Faheem-5eeM/nursealottment) | `JavaScript` `EJS` `CSS` `HTML` |
 3. | Crop Weed Detection | - | [GitHub Repo](https://github.com/Faheem-5eeM/Crop-Weed-Detection) | `Python` `OpenCV` `YOLO` |
 4. | Restaurant Website - The Pink Salt | [Live Demo](https://faheem-5eem.github.io/RESTAURANT/) | [GitHub Repo](https://github.com/Faheem-5eeM/RESTAURANT) | `HTML` `JavaScript` `Tailwind CSS` |
