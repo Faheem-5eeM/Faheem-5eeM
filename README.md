@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mohammedfaheem8768@gmail.com**
 
-- 📄 My Resume [Mohammed Faheem - RESUME](https://drive.google.com/file/d/1x4CZqcA1DtN5-ALiy9NN6RnHzh0N6XlJ/view?usp=sharing)
+- 📄 My Resume [Mohammed Faheem - RESUME](https://drive.google.com/file/d/1tDHHW2K_FbEPc6_rFmAxs_Glc6ynH9wp/view?usp=drive_link)
 
 <br>
 
